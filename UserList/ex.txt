@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "tinisoft",
+    "Pno": 1234567890
+  },
+  {
+    "Name": "rasni",
+    "Pno": 1234567
+  },
+  {
+    "Name": "tinisoft",
+    "Pno": 12345678901
+  },
+  {
+    "Name": "mani",
+    "Pno": 1234567890
+  },
+  {
+    "Name": "vicky",
+    "Pno": 1234567
+  }
+]
